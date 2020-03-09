@@ -1,12 +1,12 @@
-#SizingServers.Util
+# SizingServers.Util
 
-##Intro
+## Intro
 This library holds a range of utils to make ones' life easier.  
 You can find the (64 bit, .Net 4) binaries, in the Build folder. The c# source code can be found in the Visual Studio 2015 solution.
 
 Examples are available for most utils via the examples WinForms application.
 
-##Contents
+## Contents
 BackgroundWorkQueue: You can enqueue delegates here to be processed by a background thread. Handy for work that needs to be done in order without blocking the main thread.
 
 CompilerUnit: Facilitating compiling string input. Compiles C# .Net 4(.#).
